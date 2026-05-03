@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auto Codex Pet"
+  short_description: "Generate custom Codex pet packages"
+  default_prompt: "Create a custom Codex pet from this character idea:"
